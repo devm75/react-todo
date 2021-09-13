@@ -2,7 +2,7 @@ React ToDo App
 =======================================
 ## This project brushes up the concepts realted to State Management 
 
-[Demo](https://devm75.github.io/react-todo)
+[Live](https://devm75.github.io/react-todo)
 
 ## Setup
 
